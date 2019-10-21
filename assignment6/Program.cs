@@ -9,7 +9,7 @@ namespace assignment6
             /* 
                 Write a program to compute the product AB, store the result in P and subsequently print P.
             */
-510            int productA;
+            int productA;
             int productB;
             int resultP;
 
